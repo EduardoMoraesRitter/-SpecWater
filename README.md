@@ -70,7 +70,7 @@ Desenvolvimento do web site para acesso da população a qualidade da agua:
 
 ## Solution developed by
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
-- Joana Ritter
+* [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
 - Joel Pacheco
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Science
 - Pedro Ivo
