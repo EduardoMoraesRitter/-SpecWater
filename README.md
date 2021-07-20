@@ -32,14 +32,14 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 ## Architecture
 
 1. Etapa de coleta a água através do IoT onde pode ser colocado em diversos rio.
-1. Transmissão dos dados através de protocolo MQTT para a plataforma do watson iot plataforma;
-1. O gerenciamento dos processo dos dados para análises e orquestração das etapas;
-1. Enviado para o watson studio onde são os dados são tratados e envia pra watson ml engine;
-1. O modelo de machine learning está implementado e responsável para classificar a qualidade da água;
-1. Depois que os foram classificados são enviadas para um banco de dados;
+1. Data transmission through MQTT protocol to Watson IoT platform;
+1. The data management proccess for analysis and orquestration of steps;
+1. Sent to Watson Studio where the data is treated and sent to Watson ML Engine;
+1. The machine learning model is implemented and it is responsible to classify the quality of water;
+1. After the data is classified, it is sent to a database;
 1. A api consome os dados e deixa disponível para consumo;
 1. O website consome as informações e colocas as informações em um mapa;
-1. A população pode acessar o site verificaram a qualidade da água que consome em tempo real;
+1. The local population can access the website and check the quality of the consumed water in real time
 
 ![Cooperation architecture](/images/architecture.jpg)
 
@@ -72,7 +72,7 @@ Desenvolvimento do web site para acesso da população a qualidade da agua:
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
 - Joel Pacheco
-* [Matheus Moraes](https://github.com/mtsvi-moraes), Data Science
+* [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
 - Pedro Ivo
 
 <p>
