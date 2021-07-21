@@ -46,19 +46,19 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 ## Development
 
-Criação de uma coletor feito em arduino para teste de um espectrofotometria:
+Creation of an Arduino collector for spectrophotometry testing:
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-Coleta de agua de uma Rio:
+Water collection from a river:
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-Analise de dados, de amostra de agua potavel e agua contaminada:
+Safe and contaminated water sample data analysis:
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-Tratamento dos dados e criação de um modelo de machine learning:
+Data processing and Machine Learning model creation:
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-Desenvolvimento do web site para acesso da população a qualidade da agua:
+Web site development so the local population can check water quality:
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
 ## Resources
