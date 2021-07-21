@@ -73,7 +73,7 @@ Web site development so the local population can check water quality:
 ## Solution developed by
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
-* [Joel Pacheco] (https://github.com/jpachecoaraujo), Químico
+* [Joel Pacheco](https://github.com/jpachecoaraujo), Chemist
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
 - Pedro Ivo
 
