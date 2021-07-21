@@ -50,6 +50,7 @@ Creation of an Arduino collector for spectrophotometry testing:
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
 Water collection from a river:
+![WaterCollection](/gifs/agua.gif)
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
 Safe and contaminated water sample data analysis:
