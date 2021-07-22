@@ -47,22 +47,32 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 ## Development
 
-Creation of an Arduino collector for spectrophotometry testing:
+####Spectrophotometry research:
+It is a method used to measure how much a chemical substance absorbs light by measuring the intensity of when a beam of light passes through a sample, making it possible to measure the quantity of a known chemical substance
+
+![spectrophotometer](/images/spectrophotometer.jpg)
+
+Prototipo de arduino:
+
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-Water collection from a river:
+####Collection in the river:
+The Tietê river, born in Salesópolis, in the Serra do Mar, crosses the state of São Paulo, bathing 62 municipalities. The river is at the top of the ranking of the most polluted rivers in Brazil, as it receives domestic and industrial sewage in the stretch of the capital where less than half of this sewage is treated. The analyzed sample was collected in the western region of the city, after the river had crossed the entire state capital on the border with the municipality of Osasco.
 
 ![WaterCollection](/gifs/agua.gif)
-![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-Safe and contaminated water sample data analysis:
-![Cooperation architecture diagram](/images/arduino_project.jpg)
+####Creation of an Arduino collector for spectrophotometry testing:
+Taken from the point where the water runs calmly with a strong sewage odor using a plastic container and transferred to the test body applying the method of analysis according to the variation of the light beam through the substance without decanting of organic material.
+
+![amostra](/gifs/amostra.gif)
 
 Data processing and Machine Learning model creation:
+
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
 Web site development so the local population can check water quality:
-![Cooperation architecture diagram](/images/arduino_project.jpg)
+
+![website](/images/website.jpg)
 
 ## Resources
 
