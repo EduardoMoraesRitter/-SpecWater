@@ -24,8 +24,9 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 ## RoadMap
 
-* Fase alfa foi desenvolvido em maio e junho, os não tinhamos ideai ainda que o projeto era possivel, entao desenvolvemos de forma rudimentar para teste uma hipotese;
-* Fase beta dado o sucesso que tivemos com aplicação evoluimos o projeto de maneira que pode ser aplicado em mundo real e criamos um MVP minimo produto viavel;
+* In the alpha stage of this project, a spectrometry study was made in order to understand the process of chemical analysis fluids that come into contact with water. As a result, we developed a prototype in Arduino to validate the hypothesis, even not knowing for certain if whether this solution would work or not.
+* After the validation of the hypothesis we begined the Beta stage where, through the collected data, we elaborated a statistical analysis  to verify if the water in question would be contaminated or not. With the success we had, we created a MVP (minimum viable product) in order to be applied in the real world.
+
 
 ![RoadMap](/images/roudmap.jpg)
 
