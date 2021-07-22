@@ -75,7 +75,7 @@ Web site development so the local population can check water quality:
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
 * [Joel Pacheco](https://github.com/jpachecoaraujo), Chemist
 * [Matheus Moraes](https://github.com/mtsvi-moraes), Data Scientist
-- Pedro Ivo
+* [Pedro Ivo](https://github.com/P-dro), IT Specialist
 
 <p>
   <img src="https://contributors-img.web.app/image?repo=EduardoMoraesRitter/SpecWater" />
