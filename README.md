@@ -59,7 +59,7 @@ Prototipo de arduino:
 #### Collection in the river:
 The Tietê river, born in Salesópolis, in the Serra do Mar, crosses the state of São Paulo, bathing 62 municipalities. The river is at the top of the ranking of the most polluted rivers in Brazil, as it receives domestic and industrial sewage in the stretch of the capital where less than half of this sewage is treated. The analyzed sample was collected in the western region of the city, after the river had crossed the entire state capital on the border with the municipality of Osasco.
 
-![WaterCollection](/gifs/agua.gif)
+![coleta](/gifs/coleta.gif)
 
 #### Creation of an Arduino collector for spectrophotometry testing:
 Taken from the point where the water runs calmly with a strong sewage odor using a plastic container and transferred to the test body applying the method of analysis according to the variation of the light beam through the substance without decanting of organic material.
