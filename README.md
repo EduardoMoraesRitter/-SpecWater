@@ -64,7 +64,7 @@ The Tietê river, born in Salesópolis, in the Serra do Mar, crosses the state o
 #### Creation of an Arduino collector for spectrophotometry testing:
 Taken from the point where the water runs calmly with a strong sewage odor using a plastic container and transferred to the test body applying the method of analysis according to the variation of the light beam through the substance without decanting of organic material.
 
-![amostra](/gifs/amostra.gif)
+![arduino](/gifs/arduino.gif)
 
 Data processing and Machine Learning model creation:
 
