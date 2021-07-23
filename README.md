@@ -52,7 +52,7 @@ It is a method used to measure how much a chemical substance absorbs light by me
 
 ![spectrophotometer](/images/spectrophotometer.jpg)
 
-Prototipo de arduino:
+Arduino prototype:
 
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
