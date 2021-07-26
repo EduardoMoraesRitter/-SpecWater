@@ -66,9 +66,16 @@ Taken from the point where the water runs calmly with a strong sewage odor using
 
 ![arduino](/gifs/arduino.gif)
 
+#### Grafico de agua
 Data processing and Machine Learning model creation:
 
-![Cooperation architecture diagram](/images/arduino_project.jpg)
+![arduino](/gifs/arduino.gif)
+
+
+#### Auto AI 
+Data processing and Machine Learning model creation:
+
+![AutoAI](/gifs/IBM_Watson_IA.gif)
 
 Web site development so the local population can check water quality:
 
