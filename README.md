@@ -69,7 +69,7 @@ Taken from the point where the water runs calmly with a strong sewage odor using
 #### Grafico de agua
 Data processing and Machine Learning model creation:
 
-![arduino](/gifs/arduino.gif)
+![data](/images/data_collect.jpg)
 
 
 #### Auto AI 
