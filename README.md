@@ -43,7 +43,7 @@ SpecWater uses Artificial Intelligence that analyzes the spectrum of light withi
 1. The website gathers the information and puts it on a map;
 1. The local population can access the website and check the quality of the consumed water in real time
 
-![Cooperation architecture](/images/architecture.jpg)
+![Cooperation architecture](/images/architecture_01.jpg)
 
 
 ## Development
