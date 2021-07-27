@@ -20,7 +20,7 @@ SpecWater uses Artificial Intelligence that analyzes the spectrum of light withi
 3. [Architecture](#Architecture)
 5. [Development](#Development)
 6. [Resources](#Resources)
-7. [Solution developed by](#Solution-developed-by)
+7. [About us](#About-us)
 8. [License](#license)
 
 ## RoadMap
@@ -94,7 +94,7 @@ Web site development so the local population can check water quality:
 - [Watson Machine Learning](https://www.ibm.com/br-pt/cloud/machine-learning)
 - [Watson IoT Cloud](https://www.ibm.com/cloud/internet-of-things)
 
-## Solution developed by
+## About us
 * [Eduardo Ritter](https://github.com/EduardoMoraesRitter), Senior Software Engineer
 * [Joana Ritter](https://github.com/JoanaRitter), UX/UI Designer
 * [Joel Pacheco](https://github.com/jpachecoaraujo), Chemist
