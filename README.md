@@ -71,7 +71,7 @@ Taken from the point where the water runs calmly with a strong sewage odor using
 ### Data analysis
 With data collected from a sample of safe water and a sample of water  from the most polluted river in Brazil we carried out a comparison and proved the efficiency of the applied method and proved that the project is functionally applicable:
 
-![data](/images/data_collect.jpg)
+![data](/images/data_collects.jpg)
 
 ### Model algorithms, Auto AI 
 We used a cognitive system applied in Watson Studio together with Watson ML to test different algorithms and compare the efficiency of the models, streamlining the analysis process between the collected samples, and in the future analyzing any changes or anomalies that will be noticed in the rivers.:
