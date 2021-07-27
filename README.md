@@ -47,43 +47,43 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 ## Development
 
-#### Spectrophotometry research:
+### Spectrophotometry research:
 It is a method used to measure how much a chemical substance absorbs light by measuring the intensity of when a beam of light passes through a sample, making it possible to measure the quantity of a known chemical substance
 
 ![spectrophotometer](/images/spectrophotometer.jpg)
 
-#### Arduino prototype:
+### Arduino prototype:
 We developed a spectrophotometry  prototype in Arduino which when installed in rivers, streams, wells, springs and treatment plants collects the water data and process them through cloud.
 
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
-#### Collection in the river:
+### Collection in the river:
 The Tietê river, born in Salesópolis, in the Serra do Mar, crosses the state of São Paulo, bathing 62 municipalities. The river is at the top of the ranking of the most polluted rivers in Brazil, as it receives domestic and industrial sewage in the stretch of the capital where less than half of this sewage is treated. The analyzed sample was collected in the western region of the city, after the river had crossed the entire state capital on the border with the municipality of Osasco.
 
 ![coleta](/gifs/coleta.gif)
 
-#### Creation of an Arduino collector for spectrophotometry testing:
+### Creation of an Arduino collector for spectrophotometry testing:
 Taken from the point where the water runs calmly with a strong sewage odor using a plastic container and transferred to the test body applying the method of analysis according to the variation of the light beam through the substance without decanting of organic material.
 
 ![arduino](/gifs/arduino.gif)
 
-#### Data analysis
+### Data analysis
 With data collected from a sample of safe water and a sample of water  from the most polluted river in Brazil we carried out a comparison and proved the efficiency of the applied method and proved that the project is functionally applicable:
 
 ![data](/images/data_collect.jpg)
 
-#### Model algorithms, Auto AI 
+### Model algorithms, Auto AI 
 We used a cognitive system applied in Watson Studio together with Watson ML to test different algorithms and compare the efficiency of the models, streamlining the analysis process between the collected samples, and in the future analyzing any changes or anomalies that will be noticed in the rivers.:
 
 ![AutoAI](/gifs/IBM_Watson_IA.gif)
 
-#### Web site 
+### Web site 
 Web site development so the local population can check water quality:
 
 ![website](/gifs/website.gif)
 
 
-### Thus creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of water
+#### Thus creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of water
 
 
 ## Resources
