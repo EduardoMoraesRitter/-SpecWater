@@ -71,15 +71,15 @@ Data processing and Machine Learning model creation:
 
 ![data](/images/data_collect.jpg)
 
-
 #### Auto AI 
 Data processing and Machine Learning model creation:
 
 ![AutoAI](/gifs/IBM_Watson_IA.gif)
 
+#### Web site 
 Web site development so the local population can check water quality:
 
-![website](/images/website.jpg)
+![website](/gifs/website.gif)
 
 ## Resources
 
