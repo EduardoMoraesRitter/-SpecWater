@@ -6,11 +6,12 @@ Bringing Artificial Intelligence to monitor water quality and save lives.
 
 ## Description:
 
-<p>Over 1.8 billion people on Earth do not have access to adequate sanitation. Therefore, over 10 million people, on their majority kids, die every year due to the lack of safe water. This is a major problem that has been plaguing humanity, especially the poorest population, whose only source of drinking water are rivers that are polluted.</p>
-<p>Nowadays, analyzing the water quality is not an easy task. It's necessary for researchers to travel to the region to collect samples and take them to the laboratory, bringing great costs and making it difficult to alert the population.</p>
-<p>Taking that into account, we developed SpecWater, a solution that aims to facilitate this process and make the water quality available to all humanity, in its region and in real time.</p> 
-<p>SpecWater uses Artificial Intelligence that analyzes the spectrum of light from the water sample collected by an IoT (a small equipment installed in rivers and lakes). After the analysis, the result will be made available on an easily accessible website, and triggering an alert via SMS to the population who will be able to check the quality of the water and whether it is contaminated or not, in addition to receiving instructions for another form of consumption of drinking water.</p>
-<p>The responsible authorities will also be immediately alerted to take action and provide further assistance to the local population.</p>
+<p>Over 1.8 billion people on Earth do not have access to adequate sanitation. Therefore, over 10 million people, with the majority being children, die every year due to the lack of safe drinking water. This is a major problem plaguing humanity, targeting the poorest populations, whose only source of drinking water are rivers that can become polluted unbeknownst to the people who rely on them.
+
+Today, while scientific advancements are made daily, analyzing water quality is not a simple task. Researchers must travel to the region and collect individual samples. After which, the samples must then be  transported to a qualified laboratory where testing can be performed. Each of these crucial steps increase the time and monetary value spent on the expedition making it more difficult to receive funding and consequently alert the population.
+Taking all of this into account, we developed SpecWater, a solution that aims to facilitate this process and improve access to safer water sources in all regions and in real time, for all humanity.
+
+SpecWater uses Artificial Intelligence that analyzes the spectrum of light within a water sample collected by an IoT (a small equipment installed in rivers and lakes). After the analysis, results will be made available on an easily accessible website. Expanded functions such as the ability to trigger an alert via SMS, will also available. When a water quality alert is sent, it will allow the population to be able to check the quality of the community source and view whether it has been contaminated, or if it’s safe to consume. Instructions regarding a separate source of drinking water will be provided if the community source tests confirm contamination thus, avoiding infant mortality, the human immunodeficiency virus, which is often found in contaminated water and several other serious health and nutrition problems. The responsible authorities will also be immediately alerted to take action and provide further assistance to the local population.</p>
 
 ## Contents
 
