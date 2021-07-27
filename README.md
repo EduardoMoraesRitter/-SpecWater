@@ -52,7 +52,8 @@ It is a method used to measure how much a chemical substance absorbs light by me
 
 ![spectrophotometer](/images/spectrophotometer.jpg)
 
-Arduino prototype:
+#### Arduino prototype:
+We developed a spectrophotometry  prototype in Arduino which when installed in rivers, streams, wells, springs and treatment plants collects the water data and process them through cloud.
 
 ![Cooperation architecture diagram](/images/arduino_project.jpg)
 
@@ -66,13 +67,13 @@ Taken from the point where the water runs calmly with a strong sewage odor using
 
 ![arduino](/gifs/arduino.gif)
 
-#### Grafico de agua
-Data processing and Machine Learning model creation:
+#### Data analysis
+With data collected from a sample of safe water and a sample of water  from the most polluted river in Brazil we carried out a comparison and proved the efficiency of the applied method and proved that the project is functionally applicable:
 
 ![data](/images/data_collect.jpg)
 
-#### Auto AI 
-Data processing and Machine Learning model creation:
+#### Model algorithms, Auto AI 
+We used a cognitive system applied in Watson Studio together with Watson ML to test different algorithms and compare the efficiency of the models, streamlining the analysis process between the collected samples, and in the future analyzing any changes or anomalies that will be noticed in the rivers.:
 
 ![AutoAI](/gifs/IBM_Watson_IA.gif)
 
@@ -80,6 +81,10 @@ Data processing and Machine Learning model creation:
 Web site development so the local population can check water quality:
 
 ![website](/gifs/website.gif)
+
+
+### Thus creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of water
+
 
 ## Resources
 
