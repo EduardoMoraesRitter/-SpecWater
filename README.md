@@ -34,7 +34,7 @@ SpecWater uses Artificial Intelligence that analyzes the spectrum of light withi
 
 * In the alpha stage of this project, a spectrometry study was made in order to understand the process of chemical analysis fluids that come into contact with water. As a result, we developed a prototype in Arduino to validate the hypothesis, even not knowing for certain if whether this solution would work or not.
 * After the validation of the hypothesis we begined the Beta stage where, through the collected data, we elaborated a statistical analysis  to verify if the water in question would be contaminated or not. With the success we had, we created a MVP (minimum viable product) in order to be applied in the real world.
-* No futuro pretendemos estabelecer uma conexao com Watson IoT Cloud para trafegar os dados coletados, precisamos de mas amostra de outros rio, e testar um novo modelo de machine learning anomaly detection na agua.
+* In the future we intend to estabilish Watson IoT Cloud to transfer the collected data. In order to accomplish this, we're going to collect more samples from different rivers and lakes, as well as we intend to apply and test a new Machine Learning anomaly detection model. These data will be made available to the public who will also be able to detect and share their results with the community
 
 ![RoadMap](/images/roudmap.jpg)
 
