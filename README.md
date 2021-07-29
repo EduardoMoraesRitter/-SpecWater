@@ -91,7 +91,7 @@ Web site development so the local population can check water quality:
 ![website](/gifs/website.gif)
 
 
-#### Thus creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of the observed water
+#### Consequently creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of the observed water
 
 
 ## Resources
