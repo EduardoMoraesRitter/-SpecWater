@@ -88,7 +88,7 @@ We used a cognitive system applied in Watson Studio together with Watson ML to t
 ### Web site 
 Web site development so the local population can check water quality:
 
-![website](/gifs/website.gif)
+![website](/gifs/website_spec.gif)
 
 
 #### Consequently creating a complete monitoring system through which we can observe changes in the physical, chemical and biological characteristics of the observed water
