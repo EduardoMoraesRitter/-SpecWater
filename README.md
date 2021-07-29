@@ -4,9 +4,9 @@
 
 Bringing Artificial Intelligence to monitor water quality and save lives.
 
-To learn about our project, go to the website and check the water quality: https://specwater.web.app
+To learn more about our project and check the water quality, please visit: https://specwater.web.app
 
-Wacthing our presentation on youTube: https://www.youtube.com/watch?v=Ypv1YiY8F9s
+You can also check our presentation on youTube: https://www.youtube.com/watch?v=Ypv1YiY8F9s
 [![/images/capa_spec.jpg](https://img.youtube.com/vi/Ypv1YiY8F9s/0.jpg)](https://www.youtube.com/watch?v=Ypv1YiY8F9s)
 
 
