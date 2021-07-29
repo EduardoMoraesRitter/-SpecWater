@@ -86,7 +86,7 @@ We used a cognitive system applied in Watson Studio together with Watson ML to t
 ![AutoAI](/gifs/IBM_Watson_IA.gif)
 
 ### Web site 
-Web site development so the local population can check water quality:
+Our website will be available for desktop and mobile devices. It is possible to browse the water quality by filtering the country or province where the user is located, as well as visualize the map where the IoT device was installed, where the water sample was collected, and through a check mark visualize the water quality and see more details of the river.
 
 ![website](/gifs/website_spec.gif)
 
