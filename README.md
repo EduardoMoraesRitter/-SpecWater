@@ -4,6 +4,9 @@
 
 Bringing Artificial Intelligence to monitor water quality and save lives.
 
+To learn about our project, go to the website and check the water quality:
+https://specwater.web.app
+
 ## Description:
 
 <p>Over 1.8 billion people on Earth do not have access to adequate sanitation. Therefore, over 10 million people, with the majority being children, die every year due to the lack of safe drinking water. This is a major problem plaguing humanity, targeting the poorest populations, whose only source of drinking water are rivers that can become polluted unbeknownst to the people who rely on them.
