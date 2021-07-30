@@ -108,7 +108,8 @@ We used a cognitive system applied in Watson Studio together with Watson ML to t
 
 ### Web site 
 The SpecWater website is available for desktops and mobile devices. It is possible to search the water quality by filtering the country or province where the user is located, as well as view the map where the IoT device was installed and the water sample was collected, and through a check mark, view the quality of the water and in the future receive instructions on how to treat it for consumption, until the responsible authorities take further actions.
-You can check more details at: specwater.web.app
+
+You can check more details at: http://specwater.web.app
 
 ![website](/gifs/website_spec.gif)
 
