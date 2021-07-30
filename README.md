@@ -10,7 +10,6 @@ You can also check our presentation on YouTube: https://www.youtube.com/watch?v=
 
 [![/images/capa_spec.jpg](https://img.youtube.com/vi/Ypv1YiY8F9s/0.jpg)](https://www.youtube.com/watch?v=Ypv1YiY8F9s)
 
-
 ## Description:
 
 <p>Over 1.8 billion people on Earth do not have access to adequate sanitation. Therefore, over 10 million people, with the majority being children, die every year due to the lack of safe drinking water. This is a major problem plaguing humanity, targeting the poorest populations, whose only source of drinking water are rivers that can become polluted unbeknownst to the people who rely on them.
@@ -19,6 +18,28 @@ Today, while scientific advancements are made daily, analyzing water quality is 
 Taking all of this into account, we developed SpecWater, a solution that aims to facilitate this process and improve access to safer water sources in all regions and in real time, for all humanity.
 
 SpecWater uses Artificial Intelligence that analyzes the spectrum of light within a water sample collected by an IoT (a small equipment installed in rivers and lakes). After the analysis, results will be made available on an easily accessible website. Expanded functions such as the ability to trigger an alert via SMS, will also be available. When a water quality alert is sent, it will allow the population to be able to check the quality of the community source and view whether it has been contaminated, or if it’s safe to consume. Instructions regarding a separate source of drinking water will be provided if the community source tests confirm contamination thus, avoiding infant mortality, the human immunodeficiency virus, which is often found in contaminated water and several other serious health and nutrition problems. The responsible authorities will also be immediately alerted to take action and provide further assistance to the local population.</p>
+
+
+### What is the problem?
+
+According to a recent report made by the United Nations Children’s Emergency Fund (UNICEF) and the World Health Organization (WHO), one in three people worldwide does not have access to safe water. 
+In many countries, taps, wells and pipes which are the only option for drinking water are contaminated unbeknownst by the population, putting the health of the ones who drink it at risk and making many sick.
+
+### Our current scenario:
+
+Every person needs a sustainable supply of clean water: for drinking, washing, cooking and cleaning. It is a basic human right and there are still millions of people who do not have clean water.
+
+To date, governments, institutions and service providers around the world have not done enough to ensure that clean water reaches the poorest and most marginalized people.
+
+Although COVID-19 highlights the importance of hand hygiene in preventing the spread of disease, billions of people around the world, including hundreds of millions of school-age children, do not have access to soapy washbasins. People living in rural areas, urban slums, disaster prone areas and low-income countries are the most vulnerable and the most affected. In addition, children who do not have clean water have not only their health affected, but also their nutrition, education and learning skills, impacting many aspects of their lives.
+
+Given this, we have the sad realization that millions of people suffer annually, without water, sanitation and hygiene services.
+
+### The goal:
+
+Once the Desk Research step is completed, we realize that the starting point is to create a solution that aims to facilitate the process of water analysis and make the quality in your region available to all humanity in real time, so that everyone can access the site whenever you want, alerts will also be issued when the water that supplies your region is contaminated, as well as instructions for another form of drinking water consumption, and allowing safe information to be shared.
+
+In addition, the system will issue an alert for responsible authorities to take appropriate action.
 
 ## Contents
 
@@ -86,6 +107,7 @@ We used a cognitive system applied in Watson Studio together with Watson ML to t
 ![AutoAI](/gifs/IBM_Watson_IA.gif)
 
 ### Web site 
+Web site development so the local population can check water quality: specwater.web.app
 Our website will be available for desktop and mobile devices. It is possible to browse the water quality by filtering the country or province where the user is located, as well as visualize the map where the IoT device was installed, where the water sample was collected, and through a check mark visualize the water quality and see more details of the river.
 
 ![website](/gifs/website_spec.gif)
